@@ -1,0 +1,36 @@
+Data Exploration Insights:
+
+1. Target Distribution:
+   - The dataset contains 2000 mobile devices.
+   - Price range 1: 500 devices (25.00%)
+   - Price range 2: 500 devices (25.00%)
+   - Price range 3: 500 devices (25.00%)
+   - Price range 0: 500 devices (25.00%)
+
+2. Highly Correlated Features with Price Range:
+   - ram: correlation of 0.92
+
+3. Ram Distribution:
+   - Average ram for price range 0: 785.31
+   - Average ram for price range 1: 1677.90
+   - Average ram for price range 2: 2582.82
+   - Average ram for price range 3: 3449.23
+
+3. Battery_power Distribution:
+   - Average battery_power for price range 0: 1116.90
+   - Average battery_power for price range 1: 1228.87
+   - Average battery_power for price range 2: 1228.32
+   - Average battery_power for price range 3: 1379.98
+
+3. Px_height Distribution:
+   - Average px_height for price range 0: 536.41
+   - Average px_height for price range 1: 667.85
+   - Average px_height for price range 2: 629.88
+   - Average px_height for price range 3: 744.73
+
+3. Px_width Distribution:
+   - Average px_width for price range 0: 1150.27
+   - Average px_width for price range 1: 1251.00
+   - Average px_width for price range 2: 1234.05
+   - Average px_width for price range 3: 1369.84
+
